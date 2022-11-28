@@ -22,5 +22,9 @@ It is hoped that other users will make use of this repository in editing column 
 
 In this repository you will find the data from WONDER's database that has already been adapted, but users may follow the steps laid out in the Data1.ipynb (https://github.com/gksmith03/105-unit-3.g/blob/main/Data1.ipynb) in order to adapt more sets provided by WONDER to a more concise formatting, or their own if they so choose. 
 
+## Analysis
+
+Shown below is a shortened version of the graphical display of particulate matter levels in Orange County, North Carolina. By analyzing just 2003, a viewer can see the trend in particulate matter, and with a little inference it is clear that the trend is seasonal. Where the graph serves as most important is illustrated by the dots on the chart. Where the dots don't overlap, or overlap slightly, the particulate matter level at that reading differed from the average therefore providing significant data. 
+
 
 <img width="558" alt="2003PMLevels" src="https://user-images.githubusercontent.com/118292714/203114476-f0515866-1036-4d47-a762-880cd88298b8.png">
